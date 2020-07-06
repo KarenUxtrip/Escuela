@@ -11,6 +11,5 @@ class Welcome extends CI_Controller {
 		$this->load->view('includes/sidebar');
 		$this->load->view('includes/footer');
 		$this->load->view('index');
-
 	}
 }
